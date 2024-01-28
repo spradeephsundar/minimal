@@ -14,6 +14,10 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 This project was related to fraud detection.
 
+# Marketing Mix
+
+This project was related to Marketing mix.
+
 ## Header 2
 
 > This is a blockquote following a header.
